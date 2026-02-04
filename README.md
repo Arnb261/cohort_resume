@@ -45,5 +45,4 @@ cd cohort_resume
 ## License
 
 © 2026 Arnab Ghoshal. All rights reserved.
-![Uploading screencapture-file-D-Code-With-Us-Cohort-resume-index-html-2026-02-05-00_59_48.png…]()
-
+<img width="1920" height="1613" alt="screencapture-file-D-Code-With-Us-Cohort-resume-index-html-2026-02-05-00_59_48" src="https://github.com/user-attachments/assets/f61b4a4c-141b-4107-80e5-40f03bd13119" />
